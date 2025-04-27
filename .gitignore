@@ -1,0 +1,12 @@
+# CLion 빌드 디렉토리
+cmake-build-*/
+
+# 맥 OS 관련 파일
+.DS_Store
+
+# CLion 설정 파일
+.idea/
+
+# 실행 파일
+*.out
+*.app 
